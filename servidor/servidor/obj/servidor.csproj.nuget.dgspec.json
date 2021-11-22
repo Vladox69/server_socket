@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\Sexto\\Aplicaciones distribuidas\\servidor\\servidor\\servidor.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\Sexto\\Aplicaciones distribuidas\\server_socket\\servidor\\servidor\\servidor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\Sexto\\Aplicaciones distribuidas\\servidor\\servidor\\servidor.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\Sexto\\Aplicaciones distribuidas\\server_socket\\servidor\\servidor\\servidor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Sexto\\Aplicaciones distribuidas\\servidor\\servidor\\servidor.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Sexto\\Aplicaciones distribuidas\\server_socket\\servidor\\servidor\\servidor.csproj",
         "projectName": "servidor",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\Sexto\\Aplicaciones distribuidas\\servidor\\servidor\\servidor.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Sexto\\Aplicaciones distribuidas\\server_socket\\servidor\\servidor\\servidor.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\Sexto\\Aplicaciones distribuidas\\servidor\\servidor\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\Sexto\\Aplicaciones distribuidas\\server_socket\\servidor\\servidor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

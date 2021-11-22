@@ -61,7 +61,7 @@ namespace servidor.Properties {
         }
         
         /// <summary>
-        ///   Busca una cadena traducida similar a localhost.
+        ///   Busca una cadena traducida similar a 192.168.17.128.
         /// </summary>
         internal static string ip {
             get {
